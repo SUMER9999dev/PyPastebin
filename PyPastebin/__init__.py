@@ -1,0 +1,1 @@
+from .PASTEBIN import pastebin
